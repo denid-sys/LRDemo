@@ -2,7 +2,7 @@ Action()
 {
 
 	web_url("web_url",
-		"URL=www.google.com",
+		"URL=www.abv.bg",
 		"TargetFrame=",
 		"Resource=0",
 		"Referer=",
